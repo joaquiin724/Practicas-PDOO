@@ -1,2 +1,2 @@
 # PDOO
-Repositorio de las prácticas de PDOO
+Repositorio de las prácticas de PDOO JOaquin
